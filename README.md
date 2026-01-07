@@ -47,3 +47,5 @@ Identifies high-performing cities and brands for targeted sales strategy
 Highlights preferred payment methods to optimize checkout experience
 
 Reveals seasonal and daily sales trends for better demand planning
+(https://github.com/himanshugeek12/Mobile-Sales-Dashboard/blob/master/Mobile%20Sales%20BI.png)
+
